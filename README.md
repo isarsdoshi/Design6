@@ -100,6 +100,8 @@ To start this lab, I first signed up for a MathWorks ThingSpeak account. After m
 ![E322 Lab 7 Pic 2](https://github.com/isarsdoshi/Design6/assets/98429892/055f58be-facc-4778-b8e5-19a800bff6b9)
 ![E322 Lab 7 Pic 3](https://github.com/isarsdoshi/Design6/assets/98429892/8d2d2487-202d-4797-b84a-dc1b15e5f8e2)
 
+Next, I installed gspread and oauth2client. After that, I logged in to the Google Cloud Platform Identity and Access management, created a project called cpudata, enabled both Drive API and Sheets API, and then created and downloadd service account JSON key file. Following that, I started a new Google shee calledt cpudata and shared it with the client email in the JSON file. Finally, I attempted to run cpu_spreadsheet.py with the JSON key file in a demo folder. However, due to technological issues with my laptop I was enable to successfully carry out this part of the project. I did persist and try several times but was unable to carry it out completely due to technological issues.
+
 
 ![E322 Lab 7 Pic 4](https://github.com/isarsdoshi/Design6/assets/98429892/3bdac113-df08-450e-982a-ee6192dc1dbb)
 ![E322 Lab 7 Pic 5](https://github.com/isarsdoshi/Design6/assets/98429892/e4020a17-13e5-43ad-a7f8-14d1e9d88932)
