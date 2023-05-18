@@ -110,6 +110,9 @@ Next, I installed gspread and oauth2client. After that, I logged in to the Googl
 
 
 LAB 8:
+
+This lab was focused on data analysis. To start off, I installed certain Python packagaes, as these packages helped carry out data analysis techniques.
+
 ![E322 Lab 8 Pic 1](https://github.com/isarsdoshi/Design6/assets/98429892/c0f5fa2f-e70b-48b3-89c7-1e8b113c3119)
 ![E322 Lab 8 Pic 2](https://github.com/isarsdoshi/Design6/assets/98429892/4668f717-1299-488d-b99b-87ec9b50cc79)
 ![E322 Lab 8 Pic 3](https://github.com/isarsdoshi/Design6/assets/98429892/8393305e-1deb-494b-98c7-1a405c294533)
@@ -119,5 +122,5 @@ LAB 8:
 ![E322 Lab 8 Pic 7](https://github.com/isarsdoshi/Design6/assets/98429892/6b15a727-3a3a-4813-8a77-4c23bb24f66c)
 ![E322 Lab 8 Pic 8](https://github.com/isarsdoshi/Design6/assets/98429892/ebdb38dd-7bba-49d8-98fd-f4bec28170b3)
 ![E322 Lab 8 Pic 9](https://github.com/isarsdoshi/Design6/assets/98429892/0857d7fb-cfd5-4223-96d1-abaeb8445f4b)
-![E322 Lab 8 Pic 10](https://github.com/isarsdoshi/Design6/assets/98429892/d6e2a301-3a1d-4fd6-a2da-1256f00c9c0b)
+
 
