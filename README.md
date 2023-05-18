@@ -62,3 +62,11 @@ For the next part of the lab, I attempted to use the default database SQLite. I 
 ![E322 Lab 4 Pic 7](https://github.com/isarsdoshi/Design6/assets/98429892/80597e7c-cbab-4054-b25f-cb259a83ab96)
 ![E322 Lab 4 Pic 8](https://github.com/isarsdoshi/Design6/assets/98429892/41a8d811-e5a8-4c0e-a116-aab817109f69)
 ![E322 Lab 4 Pic 9](https://github.com/isarsdoshi/Design6/assets/98429892/5b17cff6-4c78-4232-bd7f-5f3f5925591e)
+
+LAB 5:
+![E322 Lab 5 - Pic 1](https://github.com/isarsdoshi/Design6/assets/98429892/e102d7a7-bd53-44b5-9865-2630cfe5ee83)
+![E322 Lab 5 - Pic 2](https://github.com/isarsdoshi/Design6/assets/98429892/3df45228-0bce-42c7-913a-b9c819a311d1)
+![E322 Lab 5 - Pic 3](https://github.com/isarsdoshi/Design6/assets/98429892/048b2b5e-b81f-4990-9181-cd23b9cac869)
+![E322 Lab 5 - Pic 4](https://github.com/isarsdoshi/Design6/assets/98429892/91d20747-5551-4e3e-8824-4c2b3381226d)
+
+
