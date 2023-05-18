@@ -92,4 +92,12 @@ For the next part of the lab, I installed Pystache. Following the installation, 
 ![E322 Lab 6 - Pic 3](https://github.com/isarsdoshi/Design6/assets/98429892/ebadfff9-2ad6-43e3-94c7-bf315fe1eace)
 
 
+LAB 7:
 
+![E322 Lab 7 Pic 1](https://github.com/isarsdoshi/Design6/assets/98429892/046898fa-8e8e-4e62-a37d-e56d5774c0ec)
+![E322 Lab 7 Pic 2](https://github.com/isarsdoshi/Design6/assets/98429892/055f58be-facc-4778-b8e5-19a800bff6b9)
+![E322 Lab 7 Pic 3](https://github.com/isarsdoshi/Design6/assets/98429892/8d2d2487-202d-4797-b84a-dc1b15e5f8e2)
+![E322 Lab 7 Pic 4](https://github.com/isarsdoshi/Design6/assets/98429892/3bdac113-df08-450e-982a-ee6192dc1dbb)
+![E322 Lab 7 Pic 5](https://github.com/isarsdoshi/Design6/assets/98429892/e4020a17-13e5-43ad-a7f8-14d1e9d88932)
+![E322 Lab 7 Pic 6](https://github.com/isarsdoshi/Design6/assets/98429892/4a2b9070-f539-4ca8-8881-e990055d09a4)
+![E322 Lab 7 Pic 7](https://github.com/isarsdoshi/Design6/assets/98429892/4fc97a72-688d-4650-b9db-8cd3392876c1)
