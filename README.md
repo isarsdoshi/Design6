@@ -1,6 +1,7 @@
 LAB 1:
 
 To start this lab, I initially downloaded GHDL and GTKWave. 
+
 ![E322 Lab 1 Pic 1](https://github.com/isarsdoshi/Design6/assets/98429892/215e0c2e-aa34-4507-ab06-8184a8c2202d)
 ![E322 Lab 1 Pic 2](https://github.com/isarsdoshi/Design6/assets/98429892/168fdcc4-7211-4fff-9226-e92ca73e1ea7)
 ![E322 Lab 1 Pic 3](https://github.com/isarsdoshi/Design6/assets/98429892/ae910fb0-c3c6-4c2f-90b5-a37fc473357e)
@@ -12,15 +13,18 @@ To start this lab, I initially downloaded GHDL and GTKWave.
 ![E322 Lab 1 Pic 9](https://github.com/isarsdoshi/Design6/assets/98429892/360a889e-4936-48aa-83f0-3914285a2fbc)
 
 Next, I cloned the 'dsd' repository, made and changed the directory to a new 'vhdl' directory. After that, I copied the VHDL code to the current directory.
+
 ![E322 Lab 1 Pic 10](https://github.com/isarsdoshi/Design6/assets/98429892/62fa001c-43c4-4b20-9252-ad08ee68adcb)
 ![E322 Lab 1 Pic 11](https://github.com/isarsdoshi/Design6/assets/98429892/adbde4de-5dd7-4ce6-ad63-1618f436d0cf)
 
 Following that, I experimented with GHDL by printing out "Hello World." After successfully running "Hello World," I ended up experimenting with running both Half Adder and Full Adder. While the lab only required us to experiment with Half Adder, I ended up running Full Adder as well to better understand GHDL.
+
 ![E322 Lab 1 Pic 12](https://github.com/isarsdoshi/Design6/assets/98429892/4875b21c-1699-4d56-af9e-9a386cf94119)
 ![E322 Lab 1 Pic 13](https://github.com/isarsdoshi/Design6/assets/98429892/890878f4-9356-4fc3-8d24-ad689b0376fc)
 ![E322 Lab 1 Pic 14](https://github.com/isarsdoshi/Design6/assets/98429892/ccde42e5-295e-4b48-8152-1df11a19c4f7)
 
 Finally, I extended my knowledge and skills within GHDL by running D Flip-flop.
+
 ![E322 Lab 1 Pic 15](https://github.com/isarsdoshi/Design6/assets/98429892/f170ae99-8e8d-4457-883a-97df8f62a6ce)
 ![E322 Lab 1 Pic 16](https://github.com/isarsdoshi/Design6/assets/98429892/cddafadd-ccbb-49d2-8979-7d8fe11f2074)
 
@@ -66,9 +70,11 @@ For the next part of the lab, I attempted to use the default database SQLite. I 
 LAB 5:
 
 To start off this lab, I first installed Paho-MQTT. After this installation, I changed the directory to the iot respository and then updated the respository with git pull. After updating the respository, I ended up changing the directory to Lesson 5.
+
 ![E322 Lab 5 - Pic 1](https://github.com/isarsdoshi/Design6/assets/98429892/e102d7a7-bd53-44b5-9865-2630cfe5ee83)
 
 Finally, I was able to complete the lab on two terminals. I ran python3 subcpu.py on one terminal and ran python3 pubcpu.py on another terminal.
+
 ![E322 Lab 5 - Pic 2](https://github.com/isarsdoshi/Design6/assets/98429892/3df45228-0bce-42c7-913a-b9c819a311d1)
 ![E322 Lab 5 - Pic 3](https://github.com/isarsdoshi/Design6/assets/98429892/048b2b5e-b81f-4990-9181-cd23b9cac869)
 ![E322 Lab 5 - Pic 4](https://github.com/isarsdoshi/Design6/assets/98429892/91d20747-5551-4e3e-8824-4c2b3381226d)
@@ -77,9 +83,11 @@ Finally, I was able to complete the lab on two terminals. I ran python3 subcpu.p
 LAB 6:
 
 Like the last lab, this one was also not very complex. To start this lab, I had several things to install. With that being said, I first installed Node.js and ran hello-world.js. Following that, I installed hello.js and http.js. Following the installations, I refreshed the webpage to observe the server activities. 
+
 ![E322 Lab 6 - Pic 1](https://github.com/isarsdoshi/Design6/assets/98429892/bc20b447-910d-4695-90ec-94043c49dd1c)
 
 For the next part of the lab, I installed Pystache. Following the installation, I ran say_hello.py that used the template in say_hello.mustache.
+
 ![E322 Lab 6 - Pic 2](https://github.com/isarsdoshi/Design6/assets/98429892/a8d9a2d6-3c12-439f-8fce-7348741dfce3)
 ![E322 Lab 6 - Pic 3](https://github.com/isarsdoshi/Design6/assets/98429892/ebadfff9-2ad6-43e3-94c7-bf315fe1eace)
 
