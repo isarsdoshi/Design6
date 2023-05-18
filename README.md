@@ -23,3 +23,15 @@ Following that, I experimented with GHDL by printing out "Hello World." After su
 Finally, I extended my knowledge and skills within GHDL by running D Flip-flop.
 ![E322 Lab 1 Pic 15](https://github.com/isarsdoshi/Design6/assets/98429892/f170ae99-8e8d-4457-883a-97df8f62a6ce)
 ![E322 Lab 1 Pic 16](https://github.com/isarsdoshi/Design6/assets/98429892/cddafadd-ccbb-49d2-8979-7d8fe11f2074)
+
+
+LAB 2: 
+
+![E322 Lab 2 - Pic 1](https://github.com/isarsdoshi/Design6/assets/98429892/74de2826-4b05-4a89-a569-58141c8be6c0)
+
+![E322 Lab 2 - Pic 2](https://github.com/isarsdoshi/Design6/assets/98429892/a7cc39c9-03b1-4be2-91e3-82a59ec7f11e)
+![E322 Lab 2 - Pic 3](https://github.com/isarsdoshi/Design6/assets/98429892/7e6a7d3c-4608-4498-afb3-1547afc3c3b5)
+![E322 Lab 2 - Pic 4](https://github.com/isarsdoshi/Design6/assets/98429892/dd7571b8-9f7e-4e44-a84e-d0040f97db3a)
+![E322 Lab 2 - Pic 5](https://github.com/isarsdoshi/Design6/assets/98429892/5f13f292-b5a8-4387-807d-2e0c53b6096e)
+![E322 Lab 2 - Pic 6](https://github.com/isarsdoshi/Design6/assets/98429892/108e8a95-03c1-45c3-83df-d483de65c929)
+
