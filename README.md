@@ -151,6 +151,9 @@ Next, I attempted to run pyang to generate intrusiondetection.yin and intrusiond
 
 LAB 10: 
 
+For this lab, I first started off by running hash_value.py twice and comparing results. Next, I ran snakecoin.py. Following that, I ran snakecoin-server-full-code.py on Terminal 1 and mined a new block on Terminal 2. After that, I cloneed the Python blockchain app and uncommented the last line of node_server.py. Finally, I attempted to run node_server.py on Terminal 1 and run_app.py on Terminal 2. However, due to technological issues with my laptop I was unable to successfully carry out this operation despite trying several times.
+
+
 ![E322 Lab 10 Pic 1](https://github.com/isarsdoshi/Design6/assets/98429892/58b8e0f1-c5a1-44dc-9de3-2a8041dcba81)
 ![E322 Lab 10 Pic 2](https://github.com/isarsdoshi/Design6/assets/98429892/971a4679-7ed8-4b0d-a507-d60c536165f2)
 ![E322 Lab 10 Pic 3](https://github.com/isarsdoshi/Design6/assets/98429892/18b7c153-be57-49bc-8dd3-56db8c906755)
