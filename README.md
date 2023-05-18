@@ -116,6 +116,9 @@ This lab was focused on data analysis. To start off, I installed certain Python 
 ![E322 Lab 8 Pic 1](https://github.com/isarsdoshi/Design6/assets/98429892/c0f5fa2f-e70b-48b3-89c7-1e8b113c3119)
 ![E322 Lab 8 Pic 2](https://github.com/isarsdoshi/Design6/assets/98429892/4668f717-1299-488d-b99b-87ec9b50cc79)
 ![E322 Lab 8 Pic 3](https://github.com/isarsdoshi/Design6/assets/98429892/8393305e-1deb-494b-98c7-1a405c294533)
+
+After that, I started experimenting with the X applications. I ran through each of them and was able to see the interesting features they all offerred. 
+
 ![E322 Lab 8 Pic 4](https://github.com/isarsdoshi/Design6/assets/98429892/ab948d54-2f41-4b27-a8d5-e6a2452eaacb)
 ![E322 Lab 8 Pic 5](https://github.com/isarsdoshi/Design6/assets/98429892/1550dd6f-e24d-45d8-b6b2-37928f935a25)
 ![E322 Lab 8 Pic 6](https://github.com/isarsdoshi/Design6/assets/98429892/12b99282-3dd1-4998-b6eb-6e9e199fef77)
