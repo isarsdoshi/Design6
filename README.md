@@ -128,10 +128,13 @@ After that, I started experimenting with the X applications. I ran through each 
 
 LAB 9:
 
+I started off this lab by first installing two things. With that being said, I installed pyang and PlantUML.
 
 ![E322 Lab 9 - Pic 1](https://github.com/isarsdoshi/Design6/assets/98429892/65be6780-b4f5-40ab-abc2-5ac388bc7908)
 ![E322 Lab 9 - Pic 2](https://github.com/isarsdoshi/Design6/assets/98429892/673f0338-2971-4f60-ad9d-7db4f9b047e5)
 ![E322 Lab 9 - Pic 3](https://github.com/isarsdoshi/Design6/assets/98429892/4ea393c9-4a53-46b5-8d6f-9226c6e18a9a)
+
+
 ![E322 Lab 9 - Pic 4](https://github.com/isarsdoshi/Design6/assets/98429892/3a7f3d23-df64-4f81-a2b7-2403de12c500)
 ![E322 Lab 9 - Pic 5](https://github.com/isarsdoshi/Design6/assets/98429892/05ebce99-3622-452e-b1c1-6ec8c0c8fcf4)
 ![E322 Lab 9 - Pic 6](https://github.com/isarsdoshi/Design6/assets/98429892/e290bb9a-eca7-4c1d-950b-11ccdfd740da)
