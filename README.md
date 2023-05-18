@@ -76,7 +76,10 @@ Finally, I was able to complete the lab on two terminals. I ran python3 subcpu.p
 
 LAB 6:
 
+Like the last lab, this one was also not very complex. To start this lab, I had several things to install. With that being said, I first installed Node.js and ran hello-world.js. Following that, I installed hello.js and http.js. Following the installations, I refreshed the webpage to observe the server activities. 
 ![E322 Lab 6 - Pic 1](https://github.com/isarsdoshi/Design6/assets/98429892/bc20b447-910d-4695-90ec-94043c49dd1c)
+
+For the next part of the lab, I installed Pystache. Following the installation, I ran say_hello.py that used the template in say_hello.mustache.
 ![E322 Lab 6 - Pic 2](https://github.com/isarsdoshi/Design6/assets/98429892/a8d9a2d6-3c12-439f-8fce-7348741dfce3)
 ![E322 Lab 6 - Pic 3](https://github.com/isarsdoshi/Design6/assets/98429892/ebadfff9-2ad6-43e3-94c7-bf315fe1eace)
 
