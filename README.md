@@ -126,4 +126,19 @@ After that, I started experimenting with the X applications. I ran through each 
 ![E322 Lab 8 Pic 8](https://github.com/isarsdoshi/Design6/assets/98429892/ebdb38dd-7bba-49d8-98fd-f4bec28170b3)
 ![E322 Lab 8 Pic 9](https://github.com/isarsdoshi/Design6/assets/98429892/0857d7fb-cfd5-4223-96d1-abaeb8445f4b)
 
+LAB 9:
 
+
+![E322 Lab 9 - Pic 1](https://github.com/isarsdoshi/Design6/assets/98429892/65be6780-b4f5-40ab-abc2-5ac388bc7908)
+![E322 Lab 9 - Pic 2](https://github.com/isarsdoshi/Design6/assets/98429892/673f0338-2971-4f60-ad9d-7db4f9b047e5)
+![E322 Lab 9 - Pic 3](https://github.com/isarsdoshi/Design6/assets/98429892/4ea393c9-4a53-46b5-8d6f-9226c6e18a9a)
+![E322 Lab 9 - Pic 4](https://github.com/isarsdoshi/Design6/assets/98429892/3a7f3d23-df64-4f81-a2b7-2403de12c500)
+![E322 Lab 9 - Pic 5](https://github.com/isarsdoshi/Design6/assets/98429892/05ebce99-3622-452e-b1c1-6ec8c0c8fcf4)
+![E322 Lab 9 - Pic 6](https://github.com/isarsdoshi/Design6/assets/98429892/e290bb9a-eca7-4c1d-950b-11ccdfd740da)
+![E322 Lab 9 - Pic 7](https://github.com/isarsdoshi/Design6/assets/98429892/f16531c7-0bfb-4b8e-a8ec-671d0b6527d8)
+![E322 Lab 9 - Pic 8](https://github.com/isarsdoshi/Design6/assets/98429892/49491e4e-7283-4dbc-b4f7-6b661ff2beff)
+![E322 Lab 9 - Pic 9](https://github.com/isarsdoshi/Design6/assets/98429892/dc5ca433-e2c8-4aff-a1bb-59db22f6555f)
+![E322 Lab 9 - Pic 10](https://github.com/isarsdoshi/Design6/assets/98429892/be2a0e22-0893-45a7-92ad-ee47593549b2)
+![E322 Lab 9 - Pic 11](https://github.com/isarsdoshi/Design6/assets/98429892/fedcfd2b-f060-486c-ba3f-9a82a6b019ab)
+![E322 Lab 9 - Pic 12](https://github.com/isarsdoshi/Design6/assets/98429892/4e7e75b6-b78b-4fb2-bbbe-d9332f30d3d2)
+![E322 Lab 9 - Pic 13](https://github.com/isarsdoshi/Design6/assets/98429892/60465051-9220-4ee5-ade9-c2c70a3c5b69)
