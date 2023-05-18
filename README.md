@@ -12,7 +12,7 @@ To start this lab, I initially downloaded GHDL and GTKWave.
 ![E322 Lab 1 Pic 8](https://github.com/isarsdoshi/Design6/assets/98429892/0ed4fa0d-a4e5-46d8-becd-91b8e95e2ddf)
 ![E322 Lab 1 Pic 9](https://github.com/isarsdoshi/Design6/assets/98429892/360a889e-4936-48aa-83f0-3914285a2fbc)
 
-Next, I cloned the 'dsd' repository, made and changed the directory to a new 'vhdl' directory. After that, I copied the VHDL code to the current directory.
+Next, I cloned the 'dsd' repository, and made and changed the directory to a new 'vhdl' directory. After that, I copied the VHDL code to the current directory.
 
 ![E322 Lab 1 Pic 10](https://github.com/isarsdoshi/Design6/assets/98429892/62fa001c-43c4-4b20-9252-ad08ee68adcb)
 ![E322 Lab 1 Pic 11](https://github.com/isarsdoshi/Design6/assets/98429892/adbde4de-5dd7-4ce6-ad63-1618f436d0cf)
