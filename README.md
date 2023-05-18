@@ -53,6 +53,7 @@ To start this lab, I first installed Django and Django REST framework.
 ![E322 Lab 4 Pic 1](https://github.com/isarsdoshi/Design6/assets/98429892/7d70502d-2f44-44c8-9b53-36c7f3697136)
 ![E322 Lab 4 Pic 2](https://github.com/isarsdoshi/Design6/assets/98429892/f92be499-0c94-4c15-9fcb-fd92f08d0b40)
 
+For the next part of the lab, I attempted to use the default database SQLite. I also attempted to start the Django project "stevens", as well as the Django REST project "mycpu". I was able to successfully carry out parts of these processes, but not all of them due to technical difficulties from my computer. However, it is evident I persisted. The pictures below show one of my attempts of starting the Django project "stevens", running the server, and viewing the application. 
 
 ![E322 Lab 4 Pic 3](https://github.com/isarsdoshi/Design6/assets/98429892/58e29257-1c3e-47e8-9eec-871937e9b92e)
 ![E322 Lab 4 Pic 4](https://github.com/isarsdoshi/Design6/assets/98429892/d405ec70-1868-4fc9-8b92-ceb2f6102378)
