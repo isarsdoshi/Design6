@@ -128,12 +128,14 @@ After that, I started experimenting with the X applications. I ran through each 
 
 LAB 9:
 
-I started off this lab by first installing two things. With that being said, I installed pyang and PlantUML.
+I started off this lab by first installing two things. With that being said, I installed pyang and PlantUML. After that, I copied ~/iot/lesson9/intrusiondetection.yang to ~/demo.
+
 
 ![E322 Lab 9 - Pic 1](https://github.com/isarsdoshi/Design6/assets/98429892/65be6780-b4f5-40ab-abc2-5ac388bc7908)
 ![E322 Lab 9 - Pic 2](https://github.com/isarsdoshi/Design6/assets/98429892/673f0338-2971-4f60-ad9d-7db4f9b047e5)
 ![E322 Lab 9 - Pic 3](https://github.com/isarsdoshi/Design6/assets/98429892/4ea393c9-4a53-46b5-8d6f-9226c6e18a9a)
 
+Next, I attempted to run pyang to generate intrusiondetection.yin and intrusiondetection.uml. I also attempted to run PlantUML to generate intrusiondetection.png. However, due to technological issues with my laptop I was unable to successfully carry out this operation despite trying several times.
 
 ![E322 Lab 9 - Pic 4](https://github.com/isarsdoshi/Design6/assets/98429892/3a7f3d23-df64-4f81-a2b7-2403de12c500)
 ![E322 Lab 9 - Pic 5](https://github.com/isarsdoshi/Design6/assets/98429892/05ebce99-3622-452e-b1c1-6ec8c0c8fcf4)
@@ -145,3 +147,26 @@ I started off this lab by first installing two things. With that being said, I i
 ![E322 Lab 9 - Pic 11](https://github.com/isarsdoshi/Design6/assets/98429892/fedcfd2b-f060-486c-ba3f-9a82a6b019ab)
 ![E322 Lab 9 - Pic 12](https://github.com/isarsdoshi/Design6/assets/98429892/4e7e75b6-b78b-4fb2-bbbe-d9332f30d3d2)
 ![E322 Lab 9 - Pic 13](https://github.com/isarsdoshi/Design6/assets/98429892/60465051-9220-4ee5-ade9-c2c70a3c5b69)
+
+
+LAB 10: 
+
+![E322 Lab 10 Pic 1](https://github.com/isarsdoshi/Design6/assets/98429892/58b8e0f1-c5a1-44dc-9de3-2a8041dcba81)
+![E322 Lab 10 Pic 2](https://github.com/isarsdoshi/Design6/assets/98429892/971a4679-7ed8-4b0d-a507-d60c536165f2)
+![E322 Lab 10 Pic 3](https://github.com/isarsdoshi/Design6/assets/98429892/18b7c153-be57-49bc-8dd3-56db8c906755)
+![E322 Lab 10 Pic 4](https://github.com/isarsdoshi/Design6/assets/98429892/1f7a1098-c6a2-4fd2-86c7-a9cc006b5fe3)
+![E322 Lab 10 Pic 5](https://github.com/isarsdoshi/Design6/assets/98429892/93b3ed5a-d09d-4019-bf8a-f5c2f900f9b7)
+![E322 Lab 10 Pic 6](https://github.com/isarsdoshi/Design6/assets/98429892/bac0ec44-37ae-459b-8d19-a1febeb4db27)
+![E322 Lab 10 Pic 7](https://github.com/isarsdoshi/Design6/assets/98429892/cccf10b8-59d7-4b58-a2db-de7a89dd35a7)
+![E322 Lab 10 Pic 8](https://github.com/isarsdoshi/Design6/assets/98429892/3aef58ca-11ec-4245-9d3b-d09958e3944d)
+![E322 Lab 10 Pic 9](https://github.com/isarsdoshi/Design6/assets/98429892/403ce725-0892-4667-a664-68b8b3722aac)
+![E322 Lab 10 Pic 10](https://github.com/isarsdoshi/Design6/assets/98429892/0135a75f-8327-400a-9751-30a8e9d3a3c1)
+![E322 Lab 10 Pic 12](https://github.com/isarsdoshi/Design6/assets/98429892/9e44105b-9889-43ce-a623-aee7fa03f80f)
+![E322 Lab 10 Pic 13](https://github.com/isarsdoshi/Design6/assets/98429892/9cdf76c9-df58-4ed7-afb6-669fd2148f5b)
+![E322 Lab 10 Pic 14](https://github.com/isarsdoshi/Design6/assets/98429892/b7008072-ccac-4013-bd36-26911c18a7c9)
+![E322 Lab 10 Pic 15](https://github.com/isarsdoshi/Design6/assets/98429892/4b467b6e-e0cc-4155-ba51-363a2f8dc1a5)
+![E322 Lab 10 Pic 16](https://github.com/isarsdoshi/Design6/assets/98429892/3f994c2e-b506-432a-ab7f-df5825b5885b)
+![E322 Lab 10 Pic 17](https://github.com/isarsdoshi/Design6/assets/98429892/8eef0e39-7bb0-40b6-8647-0749214d3b1f)
+![E322 Lab 10 Pic 18](https://github.com/isarsdoshi/Design6/assets/98429892/72cb4beb-72af-4089-9d6c-c9c86d13a9b4)
+
+
