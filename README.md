@@ -39,6 +39,7 @@ For this lab, I had to experiment with the command line, which helped me develop
 
 LAB 3:
 
+This lab first required me to install certain Python packagaes, such as jdcal, astral, and geopy. Following that, various commands from the Python packagaes were run. These commands helped me learn about the packages that Python offers, and how beneficial they are. For example I was able to find some interesting information like the date, time and the coordinates of the "SC Williams Library" from the commands.
 
 ![E322 Lab 3 - Pic 1](https://github.com/isarsdoshi/Design6/assets/98429892/eda699bf-6437-4601-92f6-32af0db79232)
 ![E322 Lab 3 - Pic 2](https://github.com/isarsdoshi/Design6/assets/98429892/91d2e975-e95d-4603-b6b8-3ac07e4c29e4)
