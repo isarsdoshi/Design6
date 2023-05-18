@@ -48,9 +48,12 @@ This lab first required me to install certain Python packagaes, such as jdcal, a
 
 LAB 4:
 
+To start this lab, I first installed Django and Django REST framework.
 
 ![E322 Lab 4 Pic 1](https://github.com/isarsdoshi/Design6/assets/98429892/7d70502d-2f44-44c8-9b53-36c7f3697136)
 ![E322 Lab 4 Pic 2](https://github.com/isarsdoshi/Design6/assets/98429892/f92be499-0c94-4c15-9fcb-fd92f08d0b40)
+
+
 ![E322 Lab 4 Pic 3](https://github.com/isarsdoshi/Design6/assets/98429892/58e29257-1c3e-47e8-9eec-871937e9b92e)
 ![E322 Lab 4 Pic 4](https://github.com/isarsdoshi/Design6/assets/98429892/d405ec70-1868-4fc9-8b92-ceb2f6102378)
 ![E322 Lab 4 Pic 5](https://github.com/isarsdoshi/Design6/assets/98429892/c24b56cc-b4f5-49d6-b0b0-cadb9d391789)
