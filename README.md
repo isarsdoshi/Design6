@@ -64,7 +64,11 @@ For the next part of the lab, I attempted to use the default database SQLite. I 
 ![E322 Lab 4 Pic 9](https://github.com/isarsdoshi/Design6/assets/98429892/5b17cff6-4c78-4232-bd7f-5f3f5925591e)
 
 LAB 5:
+
+To start off this lab, I first installed Paho-MQTT. After this installation, I changed the directory to the iot respository and then updated the respository with git pull. After updating the respository, I ended up changing the directory to Lesson 5.
 ![E322 Lab 5 - Pic 1](https://github.com/isarsdoshi/Design6/assets/98429892/e102d7a7-bd53-44b5-9865-2630cfe5ee83)
+
+Finally, I was able to complete the lab on two terminals. I ran python3 subcpu.py on one terminal and ran python3 pubcpu.py on another terminal.
 ![E322 Lab 5 - Pic 2](https://github.com/isarsdoshi/Design6/assets/98429892/3df45228-0bce-42c7-913a-b9c819a311d1)
 ![E322 Lab 5 - Pic 3](https://github.com/isarsdoshi/Design6/assets/98429892/048b2b5e-b81f-4990-9181-cd23b9cac869)
 ![E322 Lab 5 - Pic 4](https://github.com/isarsdoshi/Design6/assets/98429892/91d20747-5551-4e3e-8824-4c2b3381226d)
