@@ -1,4 +1,4 @@
-
+To start this lab, I initially downloaded GHDL and GTKWave. Next, I cloned the 'dsd' repository, made and changed the directory to a new 'vhdl' directory. After that, I copied the vhdl code to the current directory. Following that, I experimented with GHDL by printing out "Hello World." After successfully running "Hello World," I ended up experimenting with running both Half Adder and Full Adder. While the lab only required us to experiment with Half Adder, I ended up running Full Adder as well to better understand GHDL. Finally, I extended my knowledge and skills within GHDL by running D Flip-flop.
 ![E322 Lab 1 Pic 1](https://github.com/isarsdoshi/Design6/assets/98429892/215e0c2e-aa34-4507-ab06-8184a8c2202d)
 ![E322 Lab 1 Pic 2](https://github.com/isarsdoshi/Design6/assets/98429892/168fdcc4-7211-4fff-9226-e92ca73e1ea7)
 ![E322 Lab 1 Pic 3](https://github.com/isarsdoshi/Design6/assets/98429892/ae910fb0-c3c6-4c2f-90b5-a37fc473357e)
