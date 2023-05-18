@@ -38,6 +38,8 @@ For this lab, I had to experiment with the command line, which helped me develop
 
 
 LAB 3:
+
+
 ![E322 Lab 3 - Pic 1](https://github.com/isarsdoshi/Design6/assets/98429892/eda699bf-6437-4601-92f6-32af0db79232)
 ![E322 Lab 3 - Pic 2](https://github.com/isarsdoshi/Design6/assets/98429892/91d2e975-e95d-4603-b6b8-3ac07e4c29e4)
 ![E322 Lab 3 - Pic 3](https://github.com/isarsdoshi/Design6/assets/98429892/37ec809e-9167-496e-a145-d720a5509bbe)
