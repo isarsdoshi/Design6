@@ -107,3 +107,17 @@ Next, I installed gspread and oauth2client. After that, I logged in to the Googl
 ![E322 Lab 7 Pic 5](https://github.com/isarsdoshi/Design6/assets/98429892/e4020a17-13e5-43ad-a7f8-14d1e9d88932)
 ![E322 Lab 7 Pic 6](https://github.com/isarsdoshi/Design6/assets/98429892/4a2b9070-f539-4ca8-8881-e990055d09a4)
 ![E322 Lab 7 Pic 7](https://github.com/isarsdoshi/Design6/assets/98429892/4fc97a72-688d-4650-b9db-8cd3392876c1)
+
+
+LAB 8:
+![E322 Lab 8 Pic 1](https://github.com/isarsdoshi/Design6/assets/98429892/c0f5fa2f-e70b-48b3-89c7-1e8b113c3119)
+![E322 Lab 8 Pic 2](https://github.com/isarsdoshi/Design6/assets/98429892/4668f717-1299-488d-b99b-87ec9b50cc79)
+![E322 Lab 8 Pic 3](https://github.com/isarsdoshi/Design6/assets/98429892/8393305e-1deb-494b-98c7-1a405c294533)
+![E322 Lab 8 Pic 4](https://github.com/isarsdoshi/Design6/assets/98429892/ab948d54-2f41-4b27-a8d5-e6a2452eaacb)
+![E322 Lab 8 Pic 5](https://github.com/isarsdoshi/Design6/assets/98429892/1550dd6f-e24d-45d8-b6b2-37928f935a25)
+![E322 Lab 8 Pic 6](https://github.com/isarsdoshi/Design6/assets/98429892/12b99282-3dd1-4998-b6eb-6e9e199fef77)
+![E322 Lab 8 Pic 7](https://github.com/isarsdoshi/Design6/assets/98429892/6b15a727-3a3a-4813-8a77-4c23bb24f66c)
+![E322 Lab 8 Pic 8](https://github.com/isarsdoshi/Design6/assets/98429892/ebdb38dd-7bba-49d8-98fd-f4bec28170b3)
+![E322 Lab 8 Pic 9](https://github.com/isarsdoshi/Design6/assets/98429892/0857d7fb-cfd5-4223-96d1-abaeb8445f4b)
+![E322 Lab 8 Pic 10](https://github.com/isarsdoshi/Design6/assets/98429892/d6e2a301-3a1d-4fd6-a2da-1256f00c9c0b)
+
