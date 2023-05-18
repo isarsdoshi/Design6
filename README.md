@@ -74,3 +74,11 @@ Finally, I was able to complete the lab on two terminals. I ran python3 subcpu.p
 ![E322 Lab 5 - Pic 4](https://github.com/isarsdoshi/Design6/assets/98429892/91d20747-5551-4e3e-8824-4c2b3381226d)
 
 
+LAB 6:
+
+![E322 Lab 6 - Pic 1](https://github.com/isarsdoshi/Design6/assets/98429892/bc20b447-910d-4695-90ec-94043c49dd1c)
+![E322 Lab 6 - Pic 2](https://github.com/isarsdoshi/Design6/assets/98429892/a8d9a2d6-3c12-439f-8fce-7348741dfce3)
+![E322 Lab 6 - Pic 3](https://github.com/isarsdoshi/Design6/assets/98429892/ebadfff9-2ad6-43e3-94c7-bf315fe1eace)
+
+
+
