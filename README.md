@@ -27,7 +27,7 @@ The following examples are just me experimenting and playing around with the dif
 - ~~This is what strikethrough looks like.~~
 - ***This text is bold and italicized.***
 - <sub>This is subscript text.</sub>
-- <sup>This is superscript text.</sup>
+- > This text is a quote.
 
 
 LAB 1:
