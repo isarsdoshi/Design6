@@ -37,9 +37,8 @@ git commit
 - Background color for light mode:
   - `#ffffff` 
  - Background color for dark mode:
-  - `#000000`
+    - `#000000`
 
-The background color is `#ffffff` for light mode and `#000000` for dark mode.
 
 
 LAB 1:
