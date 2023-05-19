@@ -52,9 +52,10 @@ git commit
     - [ ] 7
     - [ ] 8
 
+### Labs:
+Since I was unable to make a file for each lab due to technological issues, I displayed all of them in this file.
 
-
-LAB 1:
+#### LAB 1:
 
 To start this lab, I initially downloaded GHDL and GTKWave. 
 
@@ -85,7 +86,7 @@ Finally, I extended my knowledge and skills within GHDL by running D Flip-flop.
 ![E322 Lab 1 Pic 16](https://github.com/isarsdoshi/Design6/assets/98429892/cddafadd-ccbb-49d2-8979-7d8fe11f2074)
 
 
-LAB 2: 
+#### LAB 2: 
 
 For this lab, I had to experiment with the command line, which helped me develop a better understanding of commands in Linux. To start off, "hostname" essentially provided the host name portion of the full name of the computer. Next, "env" listed all the environment variables. After that, the "ps" command permitted me to check the status of active processes on the system. Following that, the "pwd" command wrote the full name of the current direction. Next, "git clone" cloned the contents of the Github repo onto the system. Furthermore, "cd" changed the directory and "ls" listed the files of the directory. In addition, "df" showed the amount of free diskspace on the server. After that, "mkdir demo" made a new file in the directory named "demo". Thus, "cd demo" changed the directory to "demo". Then, "nanofile" opened the file in the text-based editor Nano. Now, "cat file" helped read each parameter and put it in the output of the terminal. After that, the "cp", "mv", and "rv" commands essentially helped copy files, move files, and remove a file. Obviously, "clear" helped clear the terminal. Moreover, "man uname" helped output information about the Operating System, the system host name, or hardware to the standard output. Similarly, "uname -a" printed the kernel name, release, and version; the network node hostname; the machine hardware name; the processor type; the hardware platform; and the operating system. After that, the "ifconfig" command showed all of the current TCP/IP network configuration values. Now, the "ping localhost" command pinged the local IP address. Finally, "netstat" provided statistics about all active connections.
 
@@ -97,7 +98,7 @@ For this lab, I had to experiment with the command line, which helped me develop
 ![E322 Lab 2 - Pic 6](https://github.com/isarsdoshi/Design6/assets/98429892/108e8a95-03c1-45c3-83df-d483de65c929)
 
 
-LAB 3:
+#### LAB 3:
 
 This lab first required me to install certain Python packages, such as jdcal, astral, and geopy. Following that, various commands from the Python package were run. These commands helped me learn about the packages that Python offers, and how beneficial they are. For example, I was able to find some interesting information like the date, time, and coordinates of the "SC Williams Library" from the commands.
 
@@ -106,7 +107,7 @@ This lab first required me to install certain Python packages, such as jdcal, as
 ![E322 Lab 3 - Pic 3](https://github.com/isarsdoshi/Design6/assets/98429892/37ec809e-9167-496e-a145-d720a5509bbe)
 
 
-LAB 4:
+#### LAB 4:
 
 To start this lab, I first installed Django and Django REST framework.
 
@@ -123,7 +124,7 @@ For the next part of the lab, I attempted to use the default database, SQLite. I
 ![E322 Lab 4 Pic 8](https://github.com/isarsdoshi/Design6/assets/98429892/41a8d811-e5a8-4c0e-a116-aab817109f69)
 ![E322 Lab 4 Pic 9](https://github.com/isarsdoshi/Design6/assets/98429892/5b17cff6-4c78-4232-bd7f-5f3f5925591e)
 
-LAB 5:
+#### LAB 5:
 
 To start off this lab, I first installed Paho-MQTT. After this installation, I changed the directory to the iot repository and then updated the repository with git pull. After updating the repository, I ended up changing the directory to Lesson 5.
 
@@ -136,7 +137,7 @@ Finally, I was able to complete the lab on two terminals. I ran python3 subcpu.p
 ![E322 Lab 5 - Pic 4](https://github.com/isarsdoshi/Design6/assets/98429892/91d20747-5551-4e3e-8824-4c2b3381226d)
 
 
-LAB 6:
+#### LAB 6:
 
 Like the last lab, this one was also not very complex. To start this lab, I had several things to install. With that being said, I first installed Node.js and ran hello-world.js. Following that, I installed hello.js and http.js. Following the installations, I refreshed the webpage to observe the server activities. 
 
@@ -148,7 +149,7 @@ For the next part of the lab, I installed Pystache. Following the installation, 
 ![E322 Lab 6 - Pic 3](https://github.com/isarsdoshi/Design6/assets/98429892/ebadfff9-2ad6-43e3-94c7-bf315fe1eace)
 
 
-LAB 7:
+#### LAB 7:
 
 To start this lab, I first signed up for a MathWorks ThingSpeak account. After making this account, I logged into it. Following that, I ran thingspeak_cpu_loop.py or thinkspeak_feed.py in a demo folder. 
 
@@ -165,7 +166,7 @@ Next, I installed gspread and oauth2client. After that, I logged in to the Googl
 ![E322 Lab 7 Pic 7](https://github.com/isarsdoshi/Design6/assets/98429892/4fc97a72-688d-4650-b9db-8cd3392876c1)
 
 
-LAB 8:
+#### LAB 8:
 
 This lab was focused on data analysis. To start off, I installed certain Python packages, as these packages helped carry out data analysis techniques.
 
@@ -182,7 +183,7 @@ After that, I started experimenting with the X applications. I ran through each 
 ![E322 Lab 8 Pic 8](https://github.com/isarsdoshi/Design6/assets/98429892/ebdb38dd-7bba-49d8-98fd-f4bec28170b3)
 ![E322 Lab 8 Pic 9](https://github.com/isarsdoshi/Design6/assets/98429892/0857d7fb-cfd5-4223-96d1-abaeb8445f4b)
 
-LAB 9:
+#### LAB 9:
 
 I started off this lab by first installing two things. With that being said, I installed pyang and PlantUML. After that, I copied ~/iot/lesson9/intrusiondetection.yang to ~/demo.
 
@@ -205,7 +206,7 @@ Next, I attempted to run pyang to generate intrusiondetection.yin and intrusiond
 ![E322 Lab 9 - Pic 13](https://github.com/isarsdoshi/Design6/assets/98429892/60465051-9220-4ee5-ade9-c2c70a3c5b69)
 
 
-LAB 10: 
+#### LAB 10: 
 
 For this lab, I first started off by running hash_value.py twice and comparing the results. Next, I ran snakecoin.py. Following that, I ran snakecoin-server-full-code.py on Terminal 1 and mined a new block on Terminal 2. After that, I cloned the Python blockchain app and uncommented the last line of node_server.py. Finally, I attempted to run node_server.py on Terminal 1 and run_app.py on Terminal 2. However, due to technological issues with my laptop, I was unable to successfully carry out this operation despite trying several times.
 
