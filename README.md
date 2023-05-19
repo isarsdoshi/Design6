@@ -9,8 +9,8 @@ Hi, I am Isar Doshi. I am currently a junior at Stevens Institute of Technology 
 Aside from my experiences in school, I also have a plethora of experiences outside of school. To start off, I have internship experience in both software engineering and product management in various industries. A couple of industries that I have a lot of experience working in are biotechnology and financial technology. This upcoming summer, I will be interning at JP Morgan, where I will be applying both my financial skills and technological skills. 
 
 ### Professional Links:
-- [My LinkedIn Profile] (https://www.linkedin.com/in/isar-doshi-7a58a318b/)
-- [Design VI Group Website] (https://sites.google.com/stevens.edu/d6grp4/)
+- [My LinkedIn Profile](https://www.linkedin.com/in/isar-doshi-7a58a318b)
+- [Design VI Group Website](https://sites.google.com/stevens.edu/d6grp4)
 
 ### Hobbies/Interests:
 My hobbies and interests outside of school/work can be best broken down into five things:
