@@ -30,6 +30,10 @@ The following examples are just me experimenting and playing around with the dif
 - > This text is a quote.
 - Some basic Git commands are:
 ```
+- Background color for light mode:
+  - `#ffffff` 
+ - Background color for dark mode:
+  - `#000000`
 git status
 git add
 git commit
