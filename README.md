@@ -28,6 +28,12 @@ The following examples are just me experimenting and playing around with the dif
 - ***This text is bold and italicized.***
 - <sub>This is subscript text.</sub>
 - > This text is a quote.
+- Some basic Git commands are:
+```
+git status
+git add
+git commit
+```
 
 
 LAB 1:
