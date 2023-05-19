@@ -38,10 +38,19 @@ git commit
   - `#ffffff` 
  - Background color for dark mode:
     - `#000000`
-- Numbers:
+- Numbered List:
 1. One
 2. Two 
 3. Three   
+- College Semesters:
+    - [X] 1
+    - [X] 2
+    - [X] 3
+    - [X] 4
+    - [X] 5
+    - [X] 6
+    - [] 7
+    - [] 8
 
 
 
