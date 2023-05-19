@@ -20,6 +20,15 @@ My hobbies and interests outside of school/work can be best broken down into fiv
 * Poker
 + Traveling
 
+### Experimenting in GitHub:
+The following examples are just me experimenting and playing around with the different markdown features available: 
+- **This is bold text.**
+- *This text is italicized.*
+- ~~This is what strikethrough looks like.~~
+- ***This text is bold and italicized.***
+- <sub>This is subscript text.</sub>
+- <sup>This is superscript text.</sup>
+
 
 LAB 1:
 
