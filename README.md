@@ -12,7 +12,7 @@ To start this lab, I initially downloaded GHDL and GTKWave.
 ![E322 Lab 1 Pic 8](https://github.com/isarsdoshi/Design6/assets/98429892/0ed4fa0d-a4e5-46d8-becd-91b8e95e2ddf)
 ![E322 Lab 1 Pic 9](https://github.com/isarsdoshi/Design6/assets/98429892/360a889e-4936-48aa-83f0-3914285a2fbc)
 
-Next, I cloned the 'dsd' repository, and made and changed the directory to a new 'vhdl' directory. After that, I copied the VHDL code to the current directory.
+Next, I cloned the 'dsd' repository, and then made and changed the directory to a new 'vhdl' directory. After that, I copied the VHDL code to the current directory.
 
 ![E322 Lab 1 Pic 10](https://github.com/isarsdoshi/Design6/assets/98429892/62fa001c-43c4-4b20-9252-ad08ee68adcb)
 ![E322 Lab 1 Pic 11](https://github.com/isarsdoshi/Design6/assets/98429892/adbde4de-5dd7-4ce6-ad63-1618f436d0cf)
@@ -31,7 +31,7 @@ Finally, I extended my knowledge and skills within GHDL by running D Flip-flop.
 
 LAB 2: 
 
-For this lab, I had to experiment with the command line, which helped me develop a better understanding of commands in Linux. To start off, "hostname" essentially provided the host name portion of the full name of the computer. Next, "env" listed all the enviornment variables. After that, the "ps" command permitted me to check the status of active processes on the system. Following that, the "pwd" command wrote the full name of the current direction. Next, "git clone" cloned the contents of the Github repo onto the system. Furthermore, "cd" changed the directory and "ls" listed the files of the directory. In addition, "df" showed the amount of free diskspace on the server. After that, "mkdir demo" made a new file in the directory named "demo". Thus, "cd demo" changed the directory to "demo". Then, "nanofile" opened the file in the text-based editor Nano. Now, "cat file" helped read each parameter and put it in the output of the terminal. After that, the "cp", "mv", and "rv" commands essenially helped copy files, move files, and remove a file. Obviously, "clear" helped clear the terminal. Moreover, "man uname" helped output information about the Operating System, the system host name, or hardware to the standard output. Similarly, "uname -a" printed the kernel name, release, and version; the network node hostname; the machine hardware name; the processor type; the hardware platform; and the operating system. After that, the "ifconfig" command showed all of the current TCP/IP network configuration values. Now, the "ping localhost" command pinged the local IP address. Finally, "netstat" provided statistics about all active connections.
+For this lab, I had to experiment with the command line, which helped me develop a better understanding of commands in Linux. To start off, "hostname" essentially provided the host name portion of the full name of the computer. Next, "env" listed all the environment variables. After that, the "ps" command permitted me to check the status of active processes on the system. Following that, the "pwd" command wrote the full name of the current direction. Next, "git clone" cloned the contents of the Github repo onto the system. Furthermore, "cd" changed the directory and "ls" listed the files of the directory. In addition, "df" showed the amount of free diskspace on the server. After that, "mkdir demo" made a new file in the directory named "demo". Thus, "cd demo" changed the directory to "demo". Then, "nanofile" opened the file in the text-based editor Nano. Now, "cat file" helped read each parameter and put it in the output of the terminal. After that, the "cp", "mv", and "rv" commands essentially helped copy files, move files, and remove a file. Obviously, "clear" helped clear the terminal. Moreover, "man uname" helped output information about the Operating System, the system host name, or hardware to the standard output. Similarly, "uname -a" printed the kernel name, release, and version; the network node hostname; the machine hardware name; the processor type; the hardware platform; and the operating system. After that, the "ifconfig" command showed all of the current TCP/IP network configuration values. Now, the "ping localhost" command pinged the local IP address. Finally, "netstat" provided statistics about all active connections.
 
 ![E322 Lab 2 - Pic 1](https://github.com/isarsdoshi/Design6/assets/98429892/74de2826-4b05-4a89-a569-58141c8be6c0)
 ![E322 Lab 2 - Pic 2](https://github.com/isarsdoshi/Design6/assets/98429892/a7cc39c9-03b1-4be2-91e3-82a59ec7f11e)
@@ -43,7 +43,7 @@ For this lab, I had to experiment with the command line, which helped me develop
 
 LAB 3:
 
-This lab first required me to install certain Python packagaes, such as jdcal, astral, and geopy. Following that, various commands from the Python packagaes were run. These commands helped me learn about the packages that Python offers, and how beneficial they are. For example I was able to find some interesting information like the date, time and the coordinates of the "SC Williams Library" from the commands.
+This lab first required me to install certain Python packages, such as jdcal, astral, and geopy. Following that, various commands from the Python package were run. These commands helped me learn about the packages that Python offers, and how beneficial they are. For example, I was able to find some interesting information like the date, time, and coordinates of the "SC Williams Library" from the commands.
 
 ![E322 Lab 3 - Pic 1](https://github.com/isarsdoshi/Design6/assets/98429892/eda699bf-6437-4601-92f6-32af0db79232)
 ![E322 Lab 3 - Pic 2](https://github.com/isarsdoshi/Design6/assets/98429892/91d2e975-e95d-4603-b6b8-3ac07e4c29e4)
@@ -57,7 +57,7 @@ To start this lab, I first installed Django and Django REST framework.
 ![E322 Lab 4 Pic 1](https://github.com/isarsdoshi/Design6/assets/98429892/7d70502d-2f44-44c8-9b53-36c7f3697136)
 ![E322 Lab 4 Pic 2](https://github.com/isarsdoshi/Design6/assets/98429892/f92be499-0c94-4c15-9fcb-fd92f08d0b40)
 
-For the next part of the lab, I attempted to use the default database SQLite. I also attempted to start the Django project "stevens", as well as the Django REST project "mycpu". I was able to successfully carry out parts of these processes, but not all of them due to technical difficulties from my computer. However, it is evident I persisted. The pictures below show one of my attempts of starting the Django project "stevens", running the server, and viewing the application. 
+For the next part of the lab, I attempted to use the default database, SQLite. I also attempted to start the Django project "stevens", as well as the Django REST project "mycpu". I was able to successfully carry out parts of these processes, but not all of them due to technical difficulties with my computer. However, it is evident I persisted. The pictures below show one of my attempts at starting the Django project "stevens", running the server, and viewing the application. 
 
 ![E322 Lab 4 Pic 3](https://github.com/isarsdoshi/Design6/assets/98429892/58e29257-1c3e-47e8-9eec-871937e9b92e)
 ![E322 Lab 4 Pic 4](https://github.com/isarsdoshi/Design6/assets/98429892/d405ec70-1868-4fc9-8b92-ceb2f6102378)
@@ -69,7 +69,7 @@ For the next part of the lab, I attempted to use the default database SQLite. I 
 
 LAB 5:
 
-To start off this lab, I first installed Paho-MQTT. After this installation, I changed the directory to the iot respository and then updated the respository with git pull. After updating the respository, I ended up changing the directory to Lesson 5.
+To start off this lab, I first installed Paho-MQTT. After this installation, I changed the directory to the iot repository and then updated the repository with git pull. After updating the repository, I ended up changing the directory to Lesson 5.
 
 ![E322 Lab 5 - Pic 1](https://github.com/isarsdoshi/Design6/assets/98429892/e102d7a7-bd53-44b5-9865-2630cfe5ee83)
 
@@ -100,7 +100,7 @@ To start this lab, I first signed up for a MathWorks ThingSpeak account. After m
 ![E322 Lab 7 Pic 2](https://github.com/isarsdoshi/Design6/assets/98429892/055f58be-facc-4778-b8e5-19a800bff6b9)
 ![E322 Lab 7 Pic 3](https://github.com/isarsdoshi/Design6/assets/98429892/8d2d2487-202d-4797-b84a-dc1b15e5f8e2)
 
-Next, I installed gspread and oauth2client. After that, I logged in to the Google Cloud Platform Identity and Access management, created a project called cpudata, enabled both Drive API and Sheets API, and then created and downloadd service account JSON key file. Following that, I started a new Google shee calledt cpudata and shared it with the client email in the JSON file. Finally, I attempted to run cpu_spreadsheet.py with the JSON key file in a demo folder. However, due to technological issues with my laptop I was enable to successfully carry out this part of the project. I did persist and try several times but was unable to carry it out completely due to technological issues.
+Next, I installed gspread and oauth2client. After that, I logged in to the Google Cloud Platform Identity and Access Management, created a project called cpudata, enabled both Drive API and Sheets API, and then created and downloaded the service account JSON key file. Following that, I started a new Google Sheet called cpudata and shared it with the client email in the JSON file. Finally, I attempted to run cpu_spreadsheet.py with the JSON key file in a demo folder. However, due to technological issues with my laptop, I was unable to successfully carry out this part of the project. I did persist and try several times, but was unable to carry it out completely due to technological issues.
 
 
 ![E322 Lab 7 Pic 4](https://github.com/isarsdoshi/Design6/assets/98429892/3bdac113-df08-450e-982a-ee6192dc1dbb)
@@ -111,13 +111,13 @@ Next, I installed gspread and oauth2client. After that, I logged in to the Googl
 
 LAB 8:
 
-This lab was focused on data analysis. To start off, I installed certain Python packagaes, as these packages helped carry out data analysis techniques.
+This lab was focused on data analysis. To start off, I installed certain Python packages, as these packages helped carry out data analysis techniques.
 
 ![E322 Lab 8 Pic 1](https://github.com/isarsdoshi/Design6/assets/98429892/c0f5fa2f-e70b-48b3-89c7-1e8b113c3119)
 ![E322 Lab 8 Pic 2](https://github.com/isarsdoshi/Design6/assets/98429892/4668f717-1299-488d-b99b-87ec9b50cc79)
 ![E322 Lab 8 Pic 3](https://github.com/isarsdoshi/Design6/assets/98429892/8393305e-1deb-494b-98c7-1a405c294533)
 
-After that, I started experimenting with the X applications. I ran through each of them and was able to see the interesting features they all offerred. Following that, I experimented with Numpy array and was able to successfully execute each of the commands. However, for every task after that, such as plotting the data from Lab 7, I was unable to succesfully carry it out out due to technological issues with my laptop. I persisted and tried several times but the technological issues made it arduous to over the obstacles.
+After that, I started experimenting with the X applications. I ran through each of them and was able to see the interesting features they all offered. Following that, I experimented with the Numpy array and was able to successfully execute each of the commands. However, for every task after that, such as plotting the data from Lab 7, I was unable to successfully carry it out due to technological issues with my laptop. I persisted and tried several times, but the technological issues made it arduous to overcome the obstacles.
 
 ![E322 Lab 8 Pic 4](https://github.com/isarsdoshi/Design6/assets/98429892/ab948d54-2f41-4b27-a8d5-e6a2452eaacb)
 ![E322 Lab 8 Pic 5](https://github.com/isarsdoshi/Design6/assets/98429892/1550dd6f-e24d-45d8-b6b2-37928f935a25)
@@ -135,7 +135,7 @@ I started off this lab by first installing two things. With that being said, I i
 ![E322 Lab 9 - Pic 2](https://github.com/isarsdoshi/Design6/assets/98429892/673f0338-2971-4f60-ad9d-7db4f9b047e5)
 ![E322 Lab 9 - Pic 3](https://github.com/isarsdoshi/Design6/assets/98429892/4ea393c9-4a53-46b5-8d6f-9226c6e18a9a)
 
-Next, I attempted to run pyang to generate intrusiondetection.yin and intrusiondetection.uml. I also attempted to run PlantUML to generate intrusiondetection.png. However, due to technological issues with my laptop I was unable to successfully carry out this operation despite trying several times.
+Next, I attempted to run pyang to generate intrusiondetection.yin and intrusiondetection.uml. I also attempted to run PlantUML to generate intrusiondetection.png. However, due to technological issues with my laptop, I was unable to successfully carry out this operation despite trying several times.
 
 ![E322 Lab 9 - Pic 4](https://github.com/isarsdoshi/Design6/assets/98429892/3a7f3d23-df64-4f81-a2b7-2403de12c500)
 ![E322 Lab 9 - Pic 5](https://github.com/isarsdoshi/Design6/assets/98429892/05ebce99-3622-452e-b1c1-6ec8c0c8fcf4)
@@ -151,7 +151,7 @@ Next, I attempted to run pyang to generate intrusiondetection.yin and intrusiond
 
 LAB 10: 
 
-For this lab, I first started off by running hash_value.py twice and comparing results. Next, I ran snakecoin.py. Following that, I ran snakecoin-server-full-code.py on Terminal 1 and mined a new block on Terminal 2. After that, I cloneed the Python blockchain app and uncommented the last line of node_server.py. Finally, I attempted to run node_server.py on Terminal 1 and run_app.py on Terminal 2. However, due to technological issues with my laptop I was unable to successfully carry out this operation despite trying several times.
+For this lab, I first started off by running hash_value.py twice and comparing the results. Next, I ran snakecoin.py. Following that, I ran snakecoin-server-full-code.py on Terminal 1 and mined a new block on Terminal 2. After that, I cloned the Python blockchain app and uncommented the last line of node_server.py. Finally, I attempted to run node_server.py on Terminal 1 and run_app.py on Terminal 2. However, due to technological issues with my laptop, I was unable to successfully carry out this operation despite trying several times.
 
 
 ![E322 Lab 10 Pic 1](https://github.com/isarsdoshi/Design6/assets/98429892/58b8e0f1-c5a1-44dc-9de3-2a8041dcba81)
