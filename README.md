@@ -1,3 +1,11 @@
+# CPE 322-A, *Engineering Design VI*
+## Semester: Spring 2023
+
+
+
+
+
+
 LAB 1:
 
 To start this lab, I initially downloaded GHDL and GTKWave. 
