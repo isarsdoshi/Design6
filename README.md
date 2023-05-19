@@ -3,7 +3,8 @@
 ### Introduction
 Hi, I am Isar Doshi. I am currently a junior at Stevens Institute of Technology with a major in computer engineering and a minor in economics. I plan on attending graduate school for financial engineering. My long term goal is to combine my passions for finance and technology and pursue a career in quantitative finance. 
 
-![StevensInstituteofTechnology-logo](https://github.com/isarsdoshi/Design6/assets/98429892/64acbc72-9bff-477c-a4e4-7427b94cfd7e)
+![StevensLogo](https://github.com/isarsdoshi/Design6/assets/98429892/58f87741-b216-4523-a130-53742941e361)
+
 
 ### Experiences
 Aside from my experiences in school, I also have a plethora of experiences outside of school. To start off, I have internship experience in both software engineering and product management in various industries. A couple of industries that I have a lot of experience working in are biotechnology and financial technology. This upcoming summer, I will be interning at JP Morgan, where I will be applying both my financial skills and technological skills. 
