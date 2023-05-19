@@ -1,6 +1,7 @@
-# CPE 322-A, *Engineering Design VI*
-## Semester: Spring 2023
-
+# CPE 322-A, Engineering Design VI
+## Semester: *Spring 2023*
+### Introduction
+Hi, I am Isar Doshi. I am currently a computer engineering major with an economics minor. I plan on attending graduate school for financial engineering. My long term goal is to combine my passions for finance and technology and pursue a career in quantitative finance. 
 
 
 
